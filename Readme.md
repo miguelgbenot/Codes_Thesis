@@ -1,0 +1,1 @@
+To achieve the outcomes showcased in the Master's thesis, acquire the foundational code from Leonard Werneck's GitHub repository at https://github.com/leowerneck/SFcollapse1D. Then, replace the evolution.cpp file in that repository with the one provided in this repository, which encompasses the modified equations required for the study.
